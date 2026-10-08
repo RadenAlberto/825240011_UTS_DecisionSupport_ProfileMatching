@@ -1,0 +1,8 @@
+{
+  "name": "SPK Profile Matching PT Jaya Prima Plastik",
+  "description": "Sistem Pendukung Keputusan (SPK) Penilaian Kinerja & Promosi Karyawan menggunakan metode Profile Matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
